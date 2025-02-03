@@ -3,6 +3,17 @@
 ## 📌 Project Overview
 In modern warehouses, **autonomous robots** play a crucial role in efficiently transporting goods. This project explores how **Reinforcement Learning (RL)** can be used to train a **robot to navigate a warehouse** while **avoiding obstacles, workers, and minimizing collisions**. The goal is to **deliver as many boxes as possible** while ensuring safety and optimal energy use.
 
+## Warehouse Grid Overview
+
+Below is the visualization of the warehouse grid environment:
+
+- 🟢 **Green Circle**: Robot
+- 🔴 **Red Squares**: Workers
+- ⚫ **Dark Gray Rectangle**: Equipment/Obstacles
+- 🟣 **Purple Square**: Target Delivery Location
+
+![Warehouse Grid](images/warehouse_grid.png)
+
 This project simulates a **grid-based warehouse environment**, where the robot must:
 - Navigate **without colliding with workers or fixed equipment**.
 - Optimize **path efficiency and delivery rate**.
