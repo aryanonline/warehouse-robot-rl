@@ -12,7 +12,7 @@ Below is the visualization of the warehouse grid environment:
 - ⚫ **Dark Gray Rectangle**: Equipment/Obstacles
 - 🟣 **Purple Square**: Target Delivery Location
 
-![Warehouse Grid](images/warehouse_grid.png)
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/acb2b6c7-8780-417d-bdb0-4825f1aa45f1" />
 
 This project simulates a **grid-based warehouse environment**, where the robot must:
 - Navigate **without colliding with workers or fixed equipment**.
